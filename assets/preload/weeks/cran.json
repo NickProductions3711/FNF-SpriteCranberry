@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Cranberry",
+			"dude",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "dude",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Wanna Sprite Cranberry?",
+	"weekName": "cran",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
